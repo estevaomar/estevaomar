@@ -22,6 +22,7 @@
   ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ![CSS](https://camo.githubusercontent.com/9216b7616a53e8ba8c5f610cb2c2e20a01647e7a628ccb041a2f374222a97280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137)&nbsp;
 ![HTML](https://camo.githubusercontent.com/45e2dbe090c9af5fed72b44f1ffec97170cd0a8611595c52b6d56bd38d555fa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6162656c436f6c6f723d304431313137)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -38,7 +39,6 @@
   ![GIT](https://camo.githubusercontent.com/21784d82d1121e7ebb75d3f504edffc77bc490cdf58a0d54a6006bc937982b26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6353686172702d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d707572706c65266c6162656c436f6c6f723d304431313137)&nbsp;
   
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://camo.githubusercontent.com/1517ed3bc20f9ba7e0089975c71d4a812f4f8ee76287c2cbd0373cfe4b675d35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742e6a732d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6162656c436f6c6f723d304431313137)&nbsp;
   
